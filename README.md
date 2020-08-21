@@ -4,6 +4,9 @@ Click the demo link or clone/download the repository on your local machine.
 Create a config.js file in components folder. In config.js file write
 `export const apiKey = "YOUR_FLIKR_API_KEY";`
 
+### Demo
+-[https://stanely254.github.io/Snapshot-Gallery]
+
 ##### Install dependencies
 
 `npm install`
